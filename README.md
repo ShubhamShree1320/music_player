@@ -12,5 +12,5 @@ To run this project, follow these steps:
     ```
 3. Open the folder and start `index.html`.
 4. Here is the video demonstrating how the player looks like:
-5. ![Shubham's Mixtape Preview](![Poster](https://github.com/user-attachments/assets/124325a3-d52b-4890-8f50-78a2d31be69f))
+5. ![Poster](https://github.com/user-attachments/assets/124325a3-d52b-4890-8f50-78a2d31be69f)
 6. [`Watch the Video`](https://youtu.be/sk8biQXHYXg)
