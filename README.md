@@ -1,9 +1,16 @@
 # Shubham's Music_Player
 
-In order to run this following steps need to be performed
+To run this project, follow these steps:
 
-1- Clone the repo
-2- cd into music_player
-3- run `npm init-y` , `npm install` and `tsc --init`
-4- go to the folder and start index.html
-
+1. Clone the repo.
+2. Navigate into the `music_player` directory:
+   ```bash
+   cd music_player
+    npm init -y
+    npm install
+    tsc --init
+    ```
+3. Open the folder and start `index.html`.
+4. Here is the video demonstrating how the player looks like:
+5. ![Shubham's Mixtape Preview](..//music_player/Poster.jpg)
+6. [`Watch the Video`](https://youtu.be/sk8biQXHYXg)
