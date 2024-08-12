@@ -23,6 +23,12 @@ let index;
 let loop = true;
 const songsList = [
     {
+        name: "MOCKING BIRD",
+        link: "tracks/Mocking_Bird.mp3",
+        artist: "EMINEM",
+        image: "covers/mocking_bird.jpg",
+    },
+    {
         name: "Charlie's Last Letter",
         link: "tracks/charlies-last-letter.mp3",
         artist: "Perks Of Being A Wallflower",
